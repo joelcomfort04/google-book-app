@@ -1,0 +1,9 @@
+input {
+  border-color: rgb(94, 93, 93);
+}
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}

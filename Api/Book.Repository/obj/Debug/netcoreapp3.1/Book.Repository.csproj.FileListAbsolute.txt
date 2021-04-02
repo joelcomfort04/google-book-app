@@ -1,0 +1,9 @@
+D:\Programs\Visual Studio 2019 Projects\Comment WebAPI\CommentApi\Book.Repository\bin\Debug\netcoreapp3.1\Book.Repository.deps.json
+D:\Programs\Visual Studio 2019 Projects\Comment WebAPI\CommentApi\Book.Repository\bin\Debug\netcoreapp3.1\Book.Repository.dll
+D:\Programs\Visual Studio 2019 Projects\Comment WebAPI\CommentApi\Book.Repository\bin\Debug\netcoreapp3.1\Book.Repository.pdb
+D:\Programs\Visual Studio 2019 Projects\Comment WebAPI\CommentApi\Book.Repository\obj\Debug\netcoreapp3.1\Book.Repository.csprojAssemblyReference.cache
+D:\Programs\Visual Studio 2019 Projects\Comment WebAPI\CommentApi\Book.Repository\obj\Debug\netcoreapp3.1\Book.Repository.AssemblyInfoInputs.cache
+D:\Programs\Visual Studio 2019 Projects\Comment WebAPI\CommentApi\Book.Repository\obj\Debug\netcoreapp3.1\Book.Repository.AssemblyInfo.cs
+D:\Programs\Visual Studio 2019 Projects\Comment WebAPI\CommentApi\Book.Repository\obj\Debug\netcoreapp3.1\Book.Repository.csproj.CoreCompileInputs.cache
+D:\Programs\Visual Studio 2019 Projects\Comment WebAPI\CommentApi\Book.Repository\obj\Debug\netcoreapp3.1\Book.Repository.dll
+D:\Programs\Visual Studio 2019 Projects\Comment WebAPI\CommentApi\Book.Repository\obj\Debug\netcoreapp3.1\Book.Repository.pdb

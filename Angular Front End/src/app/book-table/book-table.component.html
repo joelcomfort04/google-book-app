@@ -1,0 +1,38 @@
+<div class="container">
+    <div class="row equal">
+        <div *ngFor="let book of books" class="col-xs-6">
+            <h3>{{book.title}}</h3>
+            <h4>Publish Date: {{book.publishedDate}}</h4>
+            <p>Description: {{book.subtitle}}</p>
+            <button (click)="showComments(book.id)"name="{{book.id}}" class="btn btn-success" data-toggle="modal" data-target="#myModal">More Info</button>
+            
+        </div>
+        <div id="myModal" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+          
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                  <h4 class="modal-title">{{bookTitle}}</h4>
+                </div>
+                <div class="modal-body">
+                  <p>Reviews:</p>
+                 
+                  <div *ngFor="let comment of comments" class="comment">
+                    <p>{{comment.name}}: {{comment.review}} (Rating: {{comment.rating}} out of 5)</p>
+                  </div>
+                  
+                  <input type="text" name="" placeholder="Name">
+                  <input type="text" name="" placeholder="Review">
+                  <input type="text" name="" placeholder="Rating">
+                  <button>Add Review</button>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+          
+            </div>
+          </div>
+          
+</div>
