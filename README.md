@@ -1,1 +1,5 @@
-This is not finished, however this is my progress on making the full stack Book Searcher App with Angular .net and SQL Server.
+Google Book Searcher: http://20.75.81.215/
+  - Angular for the front end
+  - .net Core 3.1 for the middle tier
+  -  SQL server for the Database layer
+  
