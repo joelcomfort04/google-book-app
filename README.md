@@ -3,5 +3,5 @@ Google Book Searcher:
   - Hosted here: http://20.75.81.215/ (LINK NO LONGER WORKS! MY FREE AZURE SUBSRIPTION EXPIRED)
   - Angular for the front end
   - .net Core 3.1 for the web api
-  -  SQL server for the Database layer
+  -  SQL server for the Database
   - Hosted on Azure
